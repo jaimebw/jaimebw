@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Jaime Bowen, I'm an Aerospace Engineering Graduate with a great interest in computing 💻 , planes ✈️ , machine learning 🤖  and space 🚀 .  
+At the moment I'm studying my MSc in Aerospace Engineering while working as resarch intern  at the Technical University of Madrid(UPM).
 <!--
 **jaimebw/jaimebw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
