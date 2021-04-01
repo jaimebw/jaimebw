@@ -2,7 +2,7 @@
 - My name is Jaime Bowen, I'm an Aerospace Engineering Graduate with a great interest in  planes ✈️ , machine learning 🤖 , space 🚀 and computing 💻.(in that order :S)
 - At the moment I'm studying my MSc in Aerospace Engineering while working as a Business and Data Analyst at ALG Global.
 - 🔭 I’m currently working on Machine Learning applied to ADS-B navigation data
-- 🌱 I’m currently learning PyTorch, C/C++, aeroelasticity and cryptofinance.  
+- 🌱 I’m currently learning PyTorch, Rust, aeroelasticity and finance.  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaimebw)](https://github.com/anuraghazra/github-readme-stats)
 
