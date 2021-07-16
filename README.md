@@ -3,7 +3,7 @@
 - At the moment I'm studying my MSc in Aerospace Engineering 
 - 🔭 I’m currently working on Machine Learning applied to ADS-B navigation data
 - 🌱 I’m currently learning PyTorch, Rust, aeroelasticity and cryptofinance.  
-- 👯 I’m looking to collaborate on open source projects related to navigation data, fligt testing or related to aircraft
+- 👯 I’m looking to collaborate on open source projects related to navigation data, flight testing or related to aircraft
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaimebw)](https://github.com/anuraghazra/github-readme-stats)
