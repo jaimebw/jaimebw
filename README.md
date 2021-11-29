@@ -3,4 +3,3 @@
 - At the moment I'm studying my MSc in Aerospace Engineering 
 - 🔭 I’m currently working on Machine Learning applied to ADS-B navigation data
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on open source projects related to navigation data, flight testing or related to aircraft
