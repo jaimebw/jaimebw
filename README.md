@@ -11,7 +11,7 @@
 ### On-going
 * [Clare-db](https://github.com/jaimebw/clare-db): open source initiative that wants to help researchers in need of computational aerodynamic data
 * [Tacoma lib](https://github.com/TACOMA-INTA/tacoma-lib): python library for applying Machine Learning in CFD
-* [WPI courses repo](https://www.youtube.com/watch?v=dQw4w9WgXcQ): codes from the courses
+* [WPI courses repo](https://github.com/404): codes from the courses
 ### Utilites
 * [Jupyter Notebook Cell Extractor](https://github.com/jaimebw/jupyter_cell_extractor): a little library to extract Jupyter Notebook (.ipynb) cells to Latex files
 * [Youtube song extractor](https://github.com/jaimebw/song_extractor): utility for transforming whole videos of YouTube into different songs
