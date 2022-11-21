@@ -13,8 +13,9 @@
 * [Tacoma lib](https://github.com/TACOMA-INTA/tacoma-lib): python library for applying Machine Learning in CFD
 * [WPI courses repo](https://github.com/404): codes from the courses
 
-## Machine Learning stuff
+## Machine Learning stuff
 * [Some RNN implementations for classification](https://github.com/jaimebw/chill_rnns)
+
 ### Utilites
 * [Jupyter Notebook Cell Extractor](https://github.com/jaimebw/jupyter_cell_extractor): a little library to extract Jupyter Notebook (.ipynb) cells to Latex files
 * [Youtube song extractor](https://github.com/jaimebw/song_extractor): utility for transforming whole videos of YouTube into different songs
