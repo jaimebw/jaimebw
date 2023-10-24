@@ -1,12 +1,8 @@
 ## Hola, qué tal? 👋👋 
-- My name is Jaime Bowen, I'm an Aerospace Engineering Graduate with a great interest in the applications of machine learning 🤖  to real world problems.
-- At the moment I'm studying the Master of Computer Science at WPI
-- 🌱 I’m currently learning Rust 🦀 
-- 🤖 I have experience in NLP, aerospace + ML/DL, ATM + ML/DL, ..
-
+- I like motorbikes, aircraft, coding and old books.
 
 ## Projects and works
-
+- [Nabla](https://github.com/jaimebw/nabla): a cool Flask based app for running Open Foam. It is WIP, but you can test and let me know what you think.
 ### On-going
 * [Clare-db](https://github.com/jaimebw/clare-db): open source initiative that wants to help researchers in need of computational aerodynamic data
 * [Tacoma lib](https://github.com/TACOMA-INTA/tacoma-lib): python library for applying Machine Learning in CFD
