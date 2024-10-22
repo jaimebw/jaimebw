@@ -1,6 +1,6 @@
 ## Hola, qué tal? 👋👋 
 - I like motorbikes, aircraft, coding and old books.
-- My stack is based on Python, C++ and ocasinally I do some web dev.
+- My stack is based on Python, C++ and occasionally I do some web dev.
 
 ## Projects and works
 - [Nabla](https://github.com/jaimebw/nabla): a cool Flask based app for running Open Foam. It is WIP, but you can test and let me know what you think.
